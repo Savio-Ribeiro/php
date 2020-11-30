@@ -1,3 +1,3 @@
 <?php
-	echo "Curso PHP";
+	echo "Curso PHP Avançado";
 ?>
